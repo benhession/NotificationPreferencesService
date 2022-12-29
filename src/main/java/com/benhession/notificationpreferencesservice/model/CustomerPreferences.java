@@ -13,6 +13,7 @@ public class CustomerPreferences {
     Status status;
     String statusDescription;
     boolean smsPreferenceFlag;
+    boolean emailPreferenceFlag;
     String emailAddress;
     String phoneNumber;
 }
